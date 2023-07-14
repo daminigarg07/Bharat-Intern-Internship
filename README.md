@@ -3,7 +3,7 @@ Welcome to the Bharat Intern Internship repository! This repository contains all
 
 I have been selected as a machine learning intern at Bharat Intern, and this repository serves as a documentation of the tasks and projects I have worked on during my internship.
 
-**Tasks**
+# Tasks
 The tasks completed during the internship include, but are not limited to:
 
 Task 1: House Price Prediction
@@ -23,7 +23,7 @@ Files: Iris Flowers Classification.ipynb, flower.csv
 
 Feel free to explore each task in the folders to find the relevant code, data, and documentation.
 
-**Setup**
+# Setup
 To set up the project locally, follow these steps:
 
 Clone the repository:
